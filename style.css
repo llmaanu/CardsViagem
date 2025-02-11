@@ -32,3 +32,6 @@
     background-color: var();
   }
   
+  .menu img{
+    height: 16px;
+  }
